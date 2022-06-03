@@ -1,0 +1,213 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" href="../test.css" type="text/css">
+<meta charset="utf-8">
+<title>akibo official bulletin</title>
+
+
+<!--[if lt IE 9]>  
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>  
+<![endif]-->
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52997651-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+<header>
+<font size=7>akibo official bulletin</font>
+
+</header>
+
+
+
+
+
+
+<section>
+<article>
+<h2>ゲームセンター</h2>
+ゲームが遊べます。<BR>
+化石と化した過去作品は<a href="../sonota/oldgame">ここ</a><BR>
+<h2>Flash製</h2>
+
+
+<Table border="1"cellspacing="0" cellpadding="5" bordercolor="#333333">
+<Tr>
+<Td Colspan="2"><CENTER><font size=5>ESCAPE SNIPER(試作ver２)</CENTER></font></Td></Tr>
+<Tr>
+<Td>公開日:2013/6/3</Td><Td>プレイ時間:10分</Td></Tr>
+<Tr>
+<Td>難易度：☆☆★★★★</Td><Td>お勧め度：☆☆☆☆★★</Td></Tr>
+<Tr>
+<Td><a href="sniper/"><Img Src="escape.bmp" Width="300" Height="200"></a></Td><Td>ひたすら銃弾や照準や爆弾から逃げ続けるゲームです。<BR>
+鬼のように難しいです。<BR>
+
+</Td></Tr>
+</Table>
+
+<Table border="1"cellspacing="0" cellpadding="5" bordercolor="#333333">
+<Tr>
+<Td Colspan="2"><CENTER><font size=5>猛獣大脱走</CENTER></font></Td></Tr>
+<Tr>
+<Td>公開日:2014/3/21</Td><Td>プレイ時間:数分</Td></Tr>
+<Tr>
+<Td>難易度：☆☆★★★★</Td><Td>お勧め度：☆☆☆☆★★</Td></Tr>
+<Tr>
+<Td><a href="ahoge1/"><Img Src="ahoge1.bmp" Width="300" Height="200"></a></Td><Td>飼育員を操作して檻の中のライオンを押し返して檻の外に出ないようにするゲームです。<BR>
+ゲーム＆ウォッチのライオンに多大な影響を受けました。<BR>
+第１３回<a href="http://ahoge.info/">あほげー</a>出展作品。
+</Td></Tr>
+</Table>
+
+
+<Table border="1"cellspacing="0" cellpadding="5" bordercolor="#333333">
+<Tr>
+<Td Colspan="2"><CENTER><font size=5>妖怪！枕返しの怪！
+～ワイの夢は日本全国北枕やねん～</CENTER></font></Td></Tr>
+<Tr>
+<Td>公開日:2014/3/21</Td><Td>プレイ時間:数分</Td></Tr>
+<Tr>
+<Td>難易度：☆☆☆★★★</Td><Td>お勧め度：☆☆☆☆★★</Td></Tr>
+<Tr>
+<Td><a href="ahoge2/"><Img Src="ahoge2.bmp" Width="300" Height="200"></a></Td><Td>妖怪枕返しが日本中の寝ている人々を北枕にしていくゲームです。<BR>
+しかし、最近は地球の磁場が狂い、北と南がめちゃくちゃになってしまっていろいろ苦労しているようだ。<BR>
+第１４回<a href="http://ahoge.info/">あほげー</a>出展作品。
+</Td></Tr>
+</Table>
+
+
+<Table border="1"cellspacing="0" cellpadding="5" bordercolor="#333333">
+<Tr>
+<Td Colspan="2"><CENTER><font size=5>トミーの富くじ～目指せ一攫千金億万長者！～</CENTER></font></Td></Tr>
+<Tr>
+<Td>公開日:2014/10/31</Td><Td>プレイ時間:数分</Td></Tr>
+<Tr>
+<Td>難易度：☆☆☆★★★</Td><Td>お勧め度：☆☆★★★★</Td></Tr>
+<Tr>
+<Td><a href="ahoge3/"><Img Src="ahoge3.bmp" Width="300" Height="200"></a></Td><Td>
+無職で全財産が２万円の僕は富くじ「トミーの富くじ」で一攫千金を狙うことにした。<BR>
+運や能力を鍛えつつ、無事富くじに当選しよう。<BR>
+全然完成できなかったので今後もアップデート予定あります。<BR>
+第１５回<a href="http://ahoge.info/">あほげー</a>出展作品。
+</Td></Tr>
+</Table>
+
+<Table border="1"cellspacing="0" cellpadding="5" bordercolor="#333333">
+<Tr>
+<Td Colspan="2"><CENTER><font size=5>仔犬饅頭の死闘</CENTER></font></Td></Tr>
+<Tr>
+<Td>公開日:2014/10/31</Td><Td>プレイ時間:数分</Td></Tr>
+<Tr>
+<Td>難易度：★★★★★★</Td><Td>お勧め度：☆☆☆☆☆★</Td></Tr>
+<Tr>
+<Td><a href="ahoge4/"><Img Src="ahoge4.bmp" Width="300" Height="200"></a></Td><Td>
+自分だけの仔犬饅頭を作って戦わせよう！<BR>
+どのように作るのかが勝利への鍵となる。<BR>
+しかしバランスがとても無茶苦茶、はっきり言って一番出来がひどい。<BR>
+多分今までの例やこれから忙しくなることを考えるに多分更新はないでしょう。<BR>
+第１６回<a href="http://ahoge.info/">あほげー</a>出展作品。
+</Td></Tr>
+</Table>
+
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+ちなみに、ここには載ってないけどこのサイトに存在するゲームがあるらしいです。（過去のゲームを除く）
+
+
+</article>
+
+</section>
+
+
+<nav>
+<div id="navmidasi">
+<font size=7>メニュー</font><BR>
+
+</div>
+
+<h2>サイト関連</h2>
+
+<li><a href="http://akibo.rosx.net/">TOP</a></li>
+
+<li><a href="http://akibo.rosx.net/pages/konosaito.html">このサイトについて</a></li>
+<li><a href="http://akibo.rosx.net/pages/yokuarusitumon.html">よくある質問</a></li>
+<li><a href="http://enq-maker.com/fyJ6E0F">アンケート</a></li>
+<li><a href="http://akibo.rosx.net/pages/plo.html">自己紹介</a></li>
+<li><a href="http://akibo.rosx.net/ibento">イベント</a></li>
+<li><a href="http://akibo567.blog37.fc2.com/">ブログ</a></li>
+<li><a href="http://akibo.rosx.net/link/">リンク</a></li>
+
+</div>
+
+
+
+<h2>作品集</h2>
+
+<li><a href="http://akibo.rosx.net/game/">ゲームセンター</a></li>
+<li><a href="http://akibo.rosx.net/anime/">映画館</a></li>
+<li><a href="http://akibo.rosx.net/comic/">マンガ</a></li>
+<li><a href="http://akibo.rosx.net/setei/">設定</a></li>
+<li><a href="http://akibo.rosx.net/kyouryoku/">制作協力</a></li>
+
+
+
+<h2>交流系</h2>
+<li><a href="http://jbbs.livedoor.jp/internet/15383/">第一掲示板</a></li>
+<li><a href="http://www3.atpaint.jp/akibo427/">お絵かき掲示板</a></li>
+<li><a href="http://www.takamin.com/oekakichat/user/oekakichat3.php?userid=566852">お絵かきチャット</a></li>
+<li><a href="http://akibo.rosx.net/pages/rengotyat.html">連合チャット</a></li>
+<li><a href="http://ux.getuploader.com/akibo/">アップロダー</a></li>
+
+<h2>その他</h2>
+<li><a href="http://akibo.rosx.net/pages/yotei.html">予定</a></li>
+<li><a href="http://akibo.rosx.net/kaihatu/">開発状況</a></li>
+<li><a href="http://akibo.rosx.net/pages/dust.html">ゴミ箱</a></li>
+<li><a href="http://akibo.rosx.net/sonota/">本当にその他</a></li>
+</nav>
+<footer>
+<center>Copyright (C) 2008.4.27～Today akibo567 All Rights Reserved.</center>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
