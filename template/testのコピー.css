@@ -1,0 +1,191 @@
+﻿@charset "UTF-8";
+
+body{
+background-color:#F5FFFA;
+font-size:11pt;
+color :#980000;
+font-family : "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+
+
+
+
+
+
+text-shadow:1.5px 1.5px 1px #aaaaaa;
+
+
+}
+
+header, nav, section, footer{
+
+    display:block;
+   /* margin:5px;*/
+
+background-color:#FFFFFF;
+}
+section{
+    width:90%;
+    margin-right:5%;
+    margin-left:5%;
+    padding: 10px;
+}
+
+#menu1{
+    display: flex;
+    justify-content: space-between;
+    list-style-type:none;
+    background-color:#FFFFFF;
+    font-size: 20px;
+    -webkit-padding-start: 0;
+    margin: 0px;
+    padding:0px;
+
+}
+
+#menu1 li{
+width:25%;
+padding :5px;
+}
+
+#menu1 li a{
+    color:#FFFFFF;
+}
+#menu1 .root1{
+    border-left:2px solid white;
+ background-color: #3333CC;
+}
+
+#menu1 li:hover .sub-nav {
+    
+    display: block;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #menu1 .sub-nav:hover {
+    
+    display: block;
+  }
+
+  #menu1 .sub-nav {
+    -webkit-padding-start: 0;
+   position: absolute;
+   /* display: none; */
+             /* (1) */
+             list-style-type:none;
+            visibility: hidden;
+             opacity: 0;
+    background-color: #66CCFF;
+    width:20%;
+  }
+  
+
+
+
+header{ 
+
+  /* text-align:center;*/
+padding:30px;
+
+}
+
+header h1{
+    margin-left:10%;
+    display: inline;
+}
+#menu{
+    display: flex;
+    justify-content:flex-end;
+    list-style-type:none;
+    -webkit-padding-start: 0;
+}
+header li{
+    margin-right:5%;
+}
+
+
+
+nav{ 
+float:right;
+list-style-type: none;
+display:block;
+width: 20%;
+
+
+}
+
+
+
+
+
+section{ 
+
+
+}
+
+
+
+
+section h2{ 
+background-color: #66CCFF;
+font-size:20pt;
+color :#ffffff;
+text-shadow:3px 3px 2px #000000;
+
+
+
+
+}
+
+
+footer{ 
+display:block;
+clear:both !important;
+margin:auto;
+text-align:center;
+}
+
+#navmidasi {
+background-color:#000000;
+border-radius: 10px;
+color :#ffffff;
+}
+
+.navmatomari{
+background-color:#000000;
+border-radius: 10px;
+color :#ffffff;
+}
+
+
+#bodywrap{
+    background-image:url(harigane.png); /* 背景画像のURL */
+    background-repeat:no-repeat; /* 背景画像の繰り返し */
+    background-position:bottom right; /* 背景画像の位置を右下に */
+    background-attachment:fixed; /* 背景画像を固定 */
+
+}
+
+#kurowaku {
+padding: 10px;
+background-color:#2a2a2a;
+border-radius: 10px;
+color :#ffffff;
+
+
+background: -moz-linear-gradient(top, #3f3f3f, #0a0a0a);
+background: -webkit-gradient(linear, left top, left bottom, from(#3f3f3f), to(#0a0a0a));
+}
+
+#kurowaku h2{
+background-color:#2a2a2a;
+font-size:20pt;
+border-radius: 10px;
+color :#ffffff;
+text-shadow:3px 3px 2px #000000;
+
+
+background: -moz-linear-gradient(top, #3f3f3f, #0a0a0a);
+background: -webkit-gradient(linear, left top, left bottom, from(#3f3f3f), to(#0a0a0a));
+}
+

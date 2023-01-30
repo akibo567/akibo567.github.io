@@ -1,0 +1,157 @@
+﻿@charset "UTF-8";
+body{
+background-color:#303030;
+font-size:12pt;
+color :#000000;
+font-family : "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+
+}
+
+img {max-width:100%; width /***/:auto; /*IE8用ハック*/} /*画像サイズが横幅に合わせて可変します*/
+
+header, nav, section, footer,#sitenav{
+
+
+background-color:#FFFFFF;
+}
+section{
+padding-top:5px;
+padding-bottom:10px;
+}
+
+
+
+
+header{ 
+
+  /* text-align:center;*/
+padding:30px;
+height:80px;
+
+}
+
+header h1{
+    margin-left:10%;
+    display: inline;
+}
+#menu{
+    list-style-type:none;
+    -webkit-padding-start: 0;
+    background-color:#FFFFFF;
+    display:flex;
+    justify-content:flex-end;
+    flex-wrap: wrap;
+    position: relative;
+
+}
+
+#menu > li:first-child{
+    border-right:solid 2px #999;
+    border-left:solid 2px #999;
+}
+#menu > li{
+    border-right:solid 2px #999;
+}
+#menu li{
+    margin-top:5px;
+    font-weight: bold;
+    /*min-width:100px;*/
+   /* max-width:18%;*/
+   text-align:center;
+   position: relative;
+   flex-grow:1;
+
+}
+
+#menu li a{
+    display: block;
+    width:100%;
+    min-height:15px;
+    color:#000000;
+    text-decoration: none;
+    transition-property: all;
+    transition-duration: 300ms;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+
+}
+
+#menu li a:hover{
+    color:#AAAAAA;
+}
+
+
+#menu li:hover .sub-nav {
+    
+    display: block;
+    visibility: visible;
+    opacity: 1;
+  }
+
+  #menu .sub-nav:hover {
+    
+    display: block;
+  }
+
+  #menu .sub-nav {
+    -webkit-padding-start: 0;
+   position: absolute;
+             list-style-type:none;
+            visibility: hidden;
+             opacity: 0;
+             width:100%;
+             background-color:#FFFFFF;
+  }
+
+
+
+nav{ 
+float:right;
+list-style-type: none;
+display:block;
+width: 20%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+section h2{ 
+background-color: #303030;
+font-size:20pt;
+color :#ffffff;
+padding-left:5px;
+
+
+}
+
+
+footer{ 
+display:block;
+clear:both !important;
+/*margin:auto;*/
+text-align:center;
+background-color:#303030;
+padding:10px;
+height:50px;
+}
+
+
+
+
+
+
+
+
+#sitenav{
+    font-size:11pt;
+    padding-top:10px;
+
+}
